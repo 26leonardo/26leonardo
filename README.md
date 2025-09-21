@@ -32,6 +32,7 @@
 ![NumPy](https://img.shields.io/badge/-NumPy-000?&logo=numpy)
 ![pandas](https://img.shields.io/badge/-pandas-000?&logo=pandas)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-000?&logo=matplotlib)
+![Seaborn](https://img.shields.io/badge/-Seaborn-000?&logo=seaborn)
 
 ### Optimization / Logic / Solvers
 
